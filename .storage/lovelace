@@ -1,0 +1,157 @@
+{
+    "data": {
+        "config": {
+            "title": "Berlin Home",
+            "views": [
+                {
+                    "badges": [
+                        "sensor.yr_symbol",
+                        "sensor.srishtis_iphone_battery_level",
+                        "sensor.shreyans_iphone_battery_state",
+                        "sensor.shreyans_iphone_battery_level",
+                        "sensor.iphone_battery_level",
+                        "sensor.iphone_battery_level_3",
+                        "sensor.iphone_battery_state",
+                        "sensor.iphone_battery_state_3",
+                        "sensor.srishtis_iphone_battery_state",
+                        "sensor.iphone_battery_state_2",
+                        "sensor.iphone_battery_level_2",
+                        "sun.sun"
+                    ],
+                    "cards": [
+                        {
+                            "entities": [
+                                "light.living_room_ceiling_1a",
+                                "light.living_room_ceiling_1b",
+                                "light.living_room_ceiling_1c"
+                            ],
+                            "title": "Living Room Ceiling",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                "automation.start_homekit"
+                            ],
+                            "title": "Automation",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                "light.living_room",
+                                "light.study_lamp",
+                                "light.dimmable_light_1_2",
+                                "light.bedroom_lamp",
+                                "light.bathroom",
+                                "light.bathroom_ceiling",
+                                "light.common",
+                                "light.dimmable_light_1",
+                                "light.bedroom",
+                                "light.cooler"
+                            ],
+                            "title": "Light",
+                            "type": "entities"
+                        },
+                        {
+                            "entity": "media_player.living_room_speaker",
+                            "type": "media-control"
+                        },
+                        {
+                            "entities": [
+                                "switch.projector"
+                            ],
+                            "title": "Switch",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                "updater.updater"
+                            ],
+                            "title": "Updater",
+                            "type": "entities"
+                        }
+                    ],
+                    "path": "default_view",
+                    "title": "Home"
+                },
+                {
+                    "badges": [],
+                    "cards": [
+                        {
+                            "entities": [
+                                "light.living_room_ceiling_1a",
+                                "light.living_room_ceiling_1b",
+                                "light.living_room_ceiling_1c"
+                            ],
+                            "title": "Living Room Ceiling",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                "light.study_lamp"
+                            ],
+                            "title": "Light",
+                            "type": "entities"
+                        },
+                        {
+                            "entity": "media_player.living_room_speaker",
+                            "type": "media-control"
+                        },
+                        {
+                            "entities": [
+                                "switch.projector"
+                            ],
+                            "title": "Switch",
+                            "type": "entities"
+                        }
+                    ],
+                    "path": "living_room",
+                    "title": "Living Room"
+                },
+                {
+                    "badges": [],
+                    "cards": [
+                        {
+                            "entities": [
+                                "light.bedroom_lamp"
+                            ],
+                            "title": "Light",
+                            "type": "entities"
+                        }
+                    ],
+                    "path": "bedroom",
+                    "title": "Bedroom"
+                },
+                {
+                    "badges": [],
+                    "cards": [
+                        {
+                            "entities": [
+                                "light.bathroom_ceiling"
+                            ],
+                            "title": "Light",
+                            "type": "entities"
+                        }
+                    ],
+                    "path": "bathroom",
+                    "title": "Bathroom"
+                },
+                {
+                    "badges": [],
+                    "cards": [
+                        {
+                            "entities": [
+                                "light.cooler"
+                            ],
+                            "title": "Light",
+                            "type": "entities"
+                        }
+                    ],
+                    "path": "common",
+                    "title": "Common"
+                }
+            ]
+        }
+    },
+    "key": "lovelace",
+    "version": 1
+}

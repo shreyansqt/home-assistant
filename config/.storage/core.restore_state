@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "last_seen": "2020-04-03T02:01:42.334669+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "Shreyans",
+                    "id": "shreyans",
+                    "user_id": "bb6501391b5b4b7ca3e44dfa91f230a7"
+                },
+                "context": {
+                    "id": "d16b1530bdc14c15893205a4dcbe8773",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.shreyans",
+                "last_changed": "2020-04-02T21:47:48.940842+00:00",
+                "last_updated": "2020-04-02T21:47:58.869551+00:00",
+                "state": "unknown"
+            }
+        },
+        {
+            "last_seen": "2020-04-03T02:01:42.334669+00:00",
+            "state": {
+                "attributes": {
+                    "assumed_state": true,
+                    "friendly_name": "projector"
+                },
+                "context": {
+                    "id": "15475dcca98645598659da009c1754be",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "switch.projector",
+                "last_changed": "2020-04-02T21:47:58.799048+00:00",
+                "last_updated": "2020-04-02T21:47:58.799048+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2020-04-03T02:01:42.334669+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Start HomeKit",
+                    "last_triggered": "2020-04-02T21:47:58.873020+00:00"
+                },
+                "context": {
+                    "id": "59eb2c493bfa49fd91d12e911f45f830",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.start_homekit",
+                "last_changed": "2020-04-02T21:47:58.803632+00:00",
+                "last_updated": "2020-04-02T21:47:58.873130+00:00",
+                "state": "on"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}

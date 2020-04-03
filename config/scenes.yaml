@@ -1,0 +1,17 @@
+# - name: Living Room Dim
+#   entities:
+#     light.lamp:
+#       state: true
+#       brightness: 80
+#     light.living_room_ceiling_1:
+#       state: true
+#       brightness: 3
+#       xy_color: 0.501,0.384
+#       rgb_color: 255,175,106
+#       color_temp: 338
+#     light.living_room_ceiling_2:
+#       state: true
+#       brightness: 3
+#       xy_color: 0.501,0.384
+#       rgb_color: 255,175,106
+#       color_temp: 338

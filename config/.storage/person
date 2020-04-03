@@ -1,0 +1,14 @@
+{
+    "data": {
+        "items": [
+            {
+                "device_trackers": [],
+                "id": "shreyans",
+                "name": "Shreyans",
+                "user_id": "bb6501391b5b4b7ca3e44dfa91f230a7"
+            }
+        ]
+    },
+    "key": "person",
+    "version": 2
+}

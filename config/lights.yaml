@@ -1,0 +1,6 @@
+- platform: yeelight
+  devices:
+    192.168.178.24:
+      name: Bedroom Lamp
+    192.168.178.25:
+      name: Bathroom Ceiling

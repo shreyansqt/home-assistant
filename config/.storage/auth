@@ -1,0 +1,115 @@
+{
+    "data": {
+        "credentials": [
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "shreyans"
+                },
+                "id": "4163633788974a7d8e7788558a7d7778",
+                "user_id": "bb6501391b5b4b7ca3e44dfa91f230a7"
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-users",
+                "name": "Users"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://localhost:8123/",
+                "client_name": null,
+                "created_at": "2020-04-02T19:07:01.367930+00:00",
+                "id": "022b99eb197d47de9686edf98dd21098",
+                "jwt_key": "f34cc8b4f723d2facbe1a0f5106864116ad9c349b1c662004312085350f63ccbc79bd21060d71665e348a37d07cfaffe73cac2d74a0462356a3e51b26d9027df",
+                "last_used_at": "2020-04-02T19:07:01.368080+00:00",
+                "last_used_ip": "172.27.0.1",
+                "token": "9fc144a4ca93cf6d54108bbf9dbd39431f438e9b7654e4fbe146b0adab8422c6f7cbb35042b12891285d2d55d43451e0e9d48213bdd51eb94e8554adcaf64e73",
+                "token_type": "normal",
+                "user_id": "bb6501391b5b4b7ca3e44dfa91f230a7"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://localhost:8123/",
+                "client_name": null,
+                "created_at": "2020-04-02T19:10:08.061184+00:00",
+                "id": "5de5ae0ab7954b8a9ccb9f3a247e1aa1",
+                "jwt_key": "4a99790c03ecb6c23ba0f6f96975738e70fde88f5b413ccaa6b5f60bddf6c3d80cba04242bfc146540b0eef81e035b77190d3381a7ed5411ed8884af7199eebc",
+                "last_used_at": "2020-04-02T19:10:08.061240+00:00",
+                "last_used_ip": "172.28.0.1",
+                "token": "0cc13ab662c04a5238f455df83d9e851ad919b6bd4959a3d909af721989c9f4185776e49e8f51d6e948db0e1a8d25b3f25c3cfb82601df0d802a15ee92d457d5",
+                "token_type": "normal",
+                "user_id": "bb6501391b5b4b7ca3e44dfa91f230a7"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://localhost:8123/",
+                "client_name": null,
+                "created_at": "2020-04-02T19:10:27.861182+00:00",
+                "id": "11a65e5ac4b142248a936cfa12691dad",
+                "jwt_key": "1621ea2dd9ff56b6251b4334c4e8179f70b6e0c02b900de3960d5db8b30bbf97a45654128b748db4565bf1caaf5a44bdecbb1d645bb9289c39786c76d1b24bff",
+                "last_used_at": "2020-04-02T19:10:27.861254+00:00",
+                "last_used_ip": "172.28.0.1",
+                "token": "3098492316261d8d8855cf2ca626615154700ffb2343c7b12c243821af0398ccbbd1adf3c973cb8e3e4d2adcb42d28523fd180cb5bf84489c5492a568d1bdbac",
+                "token_type": "normal",
+                "user_id": "bb6501391b5b4b7ca3e44dfa91f230a7"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://localhost:8123/",
+                "client_name": null,
+                "created_at": "2020-04-02T19:11:49.910602+00:00",
+                "id": "93eeb21c9d8d4f27b1dc31553ba9cb56",
+                "jwt_key": "137983cf45cc87d8cc4925c45ecf5af77f89e66aee030c531e0ad3d9b8c2871dfd33d1b8ab6f431d2e04555a6166bf4f534f1d91adf28eec49819ccc59b822b7",
+                "last_used_at": "2020-04-02T19:11:49.910685+00:00",
+                "last_used_ip": "172.28.0.1",
+                "token": "0e8a7461c5383357162a1253f6c5cf6e090d20a75afd36085b8592b6c573a0f2124ba8d7267207b405e5e6083fa41128ba88574da384171f3b62b79240940aef",
+                "token_type": "normal",
+                "user_id": "bb6501391b5b4b7ca3e44dfa91f230a7"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://localhost:8123/",
+                "client_name": null,
+                "created_at": "2020-04-02T19:13:36.746456+00:00",
+                "id": "d49a9f27b23b4fe6bab6854aed7b0fcd",
+                "jwt_key": "59129ccd4288c9a283be39053e423ecb7180016f02351b16026103d3be4a881c86a6ed716692cf630a6a49ba35a1550e96e1677d0f9770c2ac7507b246cb07d5",
+                "last_used_at": "2020-04-02T22:26:57.439496+00:00",
+                "last_used_ip": "172.28.0.1",
+                "token": "4c1393c3405c02ab56901be11273e2aca04ea455e0d64022e50bc0717fd484efec121e432c567e3c54f764cc888fee6acf418c76a3b3515c1327491680aab8c6",
+                "token_type": "normal",
+                "user_id": "bb6501391b5b4b7ca3e44dfa91f230a7"
+            }
+        ],
+        "users": [
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "bb6501391b5b4b7ca3e44dfa91f230a7",
+                "is_active": true,
+                "is_owner": true,
+                "name": "Shreyans",
+                "system_generated": false
+            }
+        ]
+    },
+    "key": "auth",
+    "version": 1
+}

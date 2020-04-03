@@ -1,0 +1,468 @@
+{
+    "data": {
+        "devices": [
+            {
+                "config_entries": [
+                    "ceab433ad7574949a8011fc7b057b29c"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "ec:b5:fa:02:11:d9"
+                    ]
+                ],
+                "hub_device_id": null,
+                "id": "fb3e225c35134af3845684c18ab6fd41",
+                "identifiers": [
+                    [
+                        "hue",
+                        "ECB5FAFFFE0211D9"
+                    ]
+                ],
+                "manufacturer": "Signify",
+                "model": "BSB002",
+                "name": "Philips hue",
+                "sw_version": "1932073040"
+            },
+            {
+                "config_entries": [
+                    "ceab433ad7574949a8011fc7b057b29c"
+                ],
+                "connections": [],
+                "hub_device_id": "fb3e225c35134af3845684c18ab6fd41",
+                "id": "eecd5b8a4cf248c58136caea29f1a4ef",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:04:66:a6:7e-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp",
+                "name": "Living Room Ceiling 1A",
+                "sw_version": "1.50.2_r30933"
+            },
+            {
+                "config_entries": [
+                    "ceab433ad7574949a8011fc7b057b29c"
+                ],
+                "connections": [],
+                "hub_device_id": "fb3e225c35134af3845684c18ab6fd41",
+                "id": "289db361d5624adabe49fc7c257ce604",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:04:02:9f:d6-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp",
+                "name": "Living Room Ceiling 1C",
+                "sw_version": "1.50.2_r30933"
+            },
+            {
+                "config_entries": [
+                    "ceab433ad7574949a8011fc7b057b29c"
+                ],
+                "connections": [],
+                "hub_device_id": "fb3e225c35134af3845684c18ab6fd41",
+                "id": "65de0bdff5594324a801072e6135ec3e",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:04:66:8c:52-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp",
+                "name": "Living Room Ceiling 1B",
+                "sw_version": "1.50.2_r30933"
+            },
+            {
+                "config_entries": [
+                    "aa6878e4b39d417c86dd0156067029a1"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "69ac4b04ad0b4ca292b9daa85a99aa0f",
+                "identifiers": [
+                    [
+                        "cast",
+                        "fc845d91bbb857a4c625a452c4151c6f"
+                    ]
+                ],
+                "manufacturer": "Unknown manufacturer",
+                "model": "Google Home",
+                "name": "Living Room Speaker",
+                "sw_version": null
+            },
+            {
+                "config_entries": [],
+                "connections": [
+                    [
+                        "upnp",
+                        "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD"
+                    ]
+                ],
+                "hub_device_id": null,
+                "id": "9fff1e31a45e489b8c83710fb3a87758",
+                "identifiers": [
+                    [
+                        "upnp",
+                        "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD"
+                    ]
+                ],
+                "manufacturer": "AVM Berlin",
+                "model": null,
+                "name": "InternetGatewayDeviceV2 - GrumpyOrange",
+                "sw_version": null
+            },
+            {
+                "config_entries": [],
+                "connections": [],
+                "hub_device_id": "9fff1e31a45e489b8c83710fb3a87758",
+                "id": "4b48270ce6c743e599373565d586bc36",
+                "identifiers": [
+                    [
+                        "upnp",
+                        "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_kbyte/sec_sent"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "InternetGatewayDeviceV2 - GrumpyOrange kbyte/sec sent",
+                "sw_version": null
+            },
+            {
+                "config_entries": [],
+                "connections": [],
+                "hub_device_id": "9fff1e31a45e489b8c83710fb3a87758",
+                "id": "cd33b208560f4bfd9dd8b6a481458ec8",
+                "identifiers": [
+                    [
+                        "upnp",
+                        "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_kbyte/sec_received"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "InternetGatewayDeviceV2 - GrumpyOrange kbyte/sec received",
+                "sw_version": null
+            },
+            {
+                "config_entries": [],
+                "connections": [],
+                "hub_device_id": "9fff1e31a45e489b8c83710fb3a87758",
+                "id": "f14d9a32c36245048e33033d266c1ecb",
+                "identifiers": [
+                    [
+                        "upnp",
+                        "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_packets_sent"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "InternetGatewayDeviceV2 - GrumpyOrange packets sent",
+                "sw_version": null
+            },
+            {
+                "config_entries": [],
+                "connections": [],
+                "hub_device_id": "9fff1e31a45e489b8c83710fb3a87758",
+                "id": "ed4c6bdf153d46dc8432e3276403f045",
+                "identifiers": [
+                    [
+                        "upnp",
+                        "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_packets/sec_sent"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "InternetGatewayDeviceV2 - GrumpyOrange packets/sec sent",
+                "sw_version": null
+            },
+            {
+                "config_entries": [],
+                "connections": [],
+                "hub_device_id": "9fff1e31a45e489b8c83710fb3a87758",
+                "id": "4820690c319346d8a2cbf697ac843ef3",
+                "identifiers": [
+                    [
+                        "upnp",
+                        "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_packets/sec_received"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "InternetGatewayDeviceV2 - GrumpyOrange packets/sec received",
+                "sw_version": null
+            },
+            {
+                "config_entries": [],
+                "connections": [],
+                "hub_device_id": "9fff1e31a45e489b8c83710fb3a87758",
+                "id": "0748f5ebbb7c420d95d4c41a39f66356",
+                "identifiers": [
+                    [
+                        "upnp",
+                        "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_packets_received"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "InternetGatewayDeviceV2 - GrumpyOrange packets received",
+                "sw_version": null
+            },
+            {
+                "config_entries": [],
+                "connections": [],
+                "hub_device_id": "9fff1e31a45e489b8c83710fb3a87758",
+                "id": "b6353a4a966f4b9e954533959efb6ba7",
+                "identifiers": [
+                    [
+                        "upnp",
+                        "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_bytes_sent"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "InternetGatewayDeviceV2 - GrumpyOrange bytes sent",
+                "sw_version": null
+            },
+            {
+                "config_entries": [],
+                "connections": [],
+                "hub_device_id": "9fff1e31a45e489b8c83710fb3a87758",
+                "id": "5b993b9529fe4dfebe2771b4c67e67e5",
+                "identifiers": [
+                    [
+                        "upnp",
+                        "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_bytes_received"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "InternetGatewayDeviceV2 - GrumpyOrange bytes received",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "934399e20237497fb5bde518689e954e"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "47194b0b5790466499ada2a6403e2fc5",
+                "identifiers": [
+                    [
+                        "ios",
+                        "BF2C9DE7-CD6B-4054-9238-0A33A6D1BEB7"
+                    ]
+                ],
+                "manufacturer": "Apple",
+                "model": "iPhone 8 Plus",
+                "name": "iPhone",
+                "sw_version": "12.1.3"
+            },
+            {
+                "config_entries": [
+                    "ceab433ad7574949a8011fc7b057b29c"
+                ],
+                "connections": [],
+                "hub_device_id": "fb3e225c35134af3845684c18ab6fd41",
+                "id": "980afbdea2a2469f998c63271b006b45",
+                "identifiers": [
+                    [
+                        "hue",
+                        "7c:b0:3e:aa:0a:01:93:34-03"
+                    ]
+                ],
+                "manufacturer": "OSRAM",
+                "model": "On/Off plug",
+                "name": "Mirror Light",
+                "sw_version": "V1.04.12"
+            },
+            {
+                "config_entries": [
+                    "ceab433ad7574949a8011fc7b057b29c"
+                ],
+                "connections": [],
+                "hub_device_id": "fb3e225c35134af3845684c18ab6fd41",
+                "id": "26119447d62d4f65bf705ae53ede6f2a",
+                "identifiers": [
+                    [
+                        "hue",
+                        "7c:b0:3e:aa:0a:01:cb:a4-03"
+                    ]
+                ],
+                "manufacturer": "OSRAM",
+                "model": "On/Off plug",
+                "name": "Kitchen Lamp",
+                "sw_version": "V1.04.12"
+            },
+            {
+                "config_entries": [
+                    "934399e20237497fb5bde518689e954e"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "b9b2c37229f743448cea930f47d5fc88",
+                "identifiers": [
+                    [
+                        "ios",
+                        "354784C9-6B8D-4F0D-99ED-D79EE856B09F"
+                    ]
+                ],
+                "manufacturer": "Apple",
+                "model": "iPhone11,2",
+                "name": "Srishti\u2019s iPhone",
+                "sw_version": "12.3.1"
+            },
+            {
+                "config_entries": [
+                    "ceab433ad7574949a8011fc7b057b29c"
+                ],
+                "connections": [],
+                "hub_device_id": "fb3e225c35134af3845684c18ab6fd41",
+                "id": "dd0f4a303a2b4100b0ac3e9756c5f8cd",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:0b:57:ff:fe:38:b9:79-01"
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "Dimmable light",
+                "name": "Tradfri Bulb 1",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "ceab433ad7574949a8011fc7b057b29c"
+                ],
+                "connections": [],
+                "hub_device_id": "fb3e225c35134af3845684c18ab6fd41",
+                "id": "be1ea1aa18064d2fb6a6939770f8215a",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:0b:57:ff:fe:33:db:57-01"
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "Dimmable light",
+                "name": "Tradfri Bulb 2",
+                "sw_version": "1.2.214"
+            },
+            {
+                "config_entries": [
+                    "aa6878e4b39d417c86dd0156067029a1"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "0f6cd7cee00f499296c39067d983851d",
+                "identifiers": [
+                    [
+                        "cast",
+                        "b10a03806f3ee453424eb7c8e2255135"
+                    ]
+                ],
+                "manufacturer": "Google Inc.",
+                "model": "Google Home Mini",
+                "name": "Google Home",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "aa6878e4b39d417c86dd0156067029a1"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "255fc91af13249b6ad2e4b3c4ecb0172",
+                "identifiers": [
+                    [
+                        "cast",
+                        "5c35981e7714f039b187836c4421c576"
+                    ]
+                ],
+                "manufacturer": "Unknown manufacturer",
+                "model": "Google Home Mini",
+                "name": "Bedroom Speaker",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "aa6878e4b39d417c86dd0156067029a1"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "e24de9584bc548a0b7e0ad5d96f74aac",
+                "identifiers": [
+                    [
+                        "cast",
+                        "3b2a939f211b298f990aabbca7e3089b"
+                    ]
+                ],
+                "manufacturer": "Unknown manufacturer",
+                "model": "Google Home",
+                "name": "Living Room Speaker",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "aa6878e4b39d417c86dd0156067029a1"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "3f32f6a2f13243a68d1594538bb6f8a1",
+                "identifiers": [
+                    [
+                        "cast",
+                        "201446bf264fd60070890d9bde7389ef"
+                    ]
+                ],
+                "manufacturer": "Unknown manufacturer",
+                "model": "Google Home Mini",
+                "name": "Kitchen Speaker",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "aa6878e4b39d417c86dd0156067029a1"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "73791596da924e1e98b6292445a30740",
+                "identifiers": [
+                    [
+                        "cast",
+                        "1d01d16bdd328721055f8c7de70341b3"
+                    ]
+                ],
+                "manufacturer": "",
+                "model": "Google Home Mini",
+                "name": "Common Speaker",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "aa6878e4b39d417c86dd0156067029a1"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "1ee6709c466e4fc69e62f02043886eda",
+                "identifiers": [
+                    [
+                        "cast",
+                        "16a00e3640ef18b1b21a4650f24c838e"
+                    ]
+                ],
+                "manufacturer": "Unknown manufacturer",
+                "model": "Google Home Mini",
+                "name": "Bathroom Speaker",
+                "sw_version": null
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}

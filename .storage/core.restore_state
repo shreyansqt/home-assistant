@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "last_seen": "2020-03-21T20:55:15.031575+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Start HomeKit",
+                    "last_triggered": "2020-03-12T18:56:18.158096+00:00"
+                },
+                "context": {
+                    "id": "d6d1e9e905094d438cbce49b82bd7d72",
+                    "user_id": null
+                },
+                "entity_id": "automation.start_homekit",
+                "last_changed": "2020-03-12T18:56:18.008470+00:00",
+                "last_updated": "2020-03-12T18:56:18.166976+00:00",
+                "state": "on"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}

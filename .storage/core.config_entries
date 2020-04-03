@@ -1,0 +1,39 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "bridge_id": "ECB5FAFFFE0211D9",
+                    "host": "192.168.178.28",
+                    "username": "sq6Zyxeeg4azAUPwghBIsDMiErveCACHmYs3Ok0R"
+                },
+                "domain": "hue",
+                "entry_id": "ceab433ad7574949a8011fc7b057b29c",
+                "source": "discovery",
+                "title": "Philips hue",
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {},
+                "domain": "cast",
+                "entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "source": "discovery",
+                "title": "Google Cast",
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_push",
+                "data": {},
+                "domain": "ios",
+                "entry_id": "934399e20237497fb5bde518689e954e",
+                "source": "user",
+                "title": "Home Assistant iOS",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

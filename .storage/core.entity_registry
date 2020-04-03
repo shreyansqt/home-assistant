@@ -1,0 +1,341 @@
+{
+    "data": {
+        "entities": [
+            {
+                "config_entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "device_id": "69ac4b04ad0b4ca292b9daa85a99aa0f",
+                "disabled_by": null,
+                "entity_id": "media_player.living_room_speaker",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "fc845d91-bbb8-57a4-c625-a452c4151c6f"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": "4b48270ce6c743e599373565d586bc36",
+                "disabled_by": null,
+                "entity_id": "sensor.internetgatewaydevicev2_grumpyorange_kbyte_sec_sent",
+                "name": null,
+                "platform": "upnp",
+                "unique_id": "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_kbyte/sec_sent"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": "cd33b208560f4bfd9dd8b6a481458ec8",
+                "disabled_by": null,
+                "entity_id": "sensor.internetgatewaydevicev2_grumpyorange_kbyte_sec_received",
+                "name": null,
+                "platform": "upnp",
+                "unique_id": "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_kbyte/sec_received"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": "f14d9a32c36245048e33033d266c1ecb",
+                "disabled_by": null,
+                "entity_id": "sensor.internetgatewaydevicev2_grumpyorange_packets_sent",
+                "name": null,
+                "platform": "upnp",
+                "unique_id": "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_packets_sent"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": "ed4c6bdf153d46dc8432e3276403f045",
+                "disabled_by": null,
+                "entity_id": "sensor.internetgatewaydevicev2_grumpyorange_packets_sec_sent",
+                "name": null,
+                "platform": "upnp",
+                "unique_id": "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_packets/sec_sent"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": "4820690c319346d8a2cbf697ac843ef3",
+                "disabled_by": null,
+                "entity_id": "sensor.internetgatewaydevicev2_grumpyorange_packets_sec_received",
+                "name": null,
+                "platform": "upnp",
+                "unique_id": "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_packets/sec_received"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": "0748f5ebbb7c420d95d4c41a39f66356",
+                "disabled_by": null,
+                "entity_id": "sensor.internetgatewaydevicev2_grumpyorange_packets_received",
+                "name": null,
+                "platform": "upnp",
+                "unique_id": "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_packets_received"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": "b6353a4a966f4b9e954533959efb6ba7",
+                "disabled_by": null,
+                "entity_id": "sensor.internetgatewaydevicev2_grumpyorange_bytes_sent",
+                "name": null,
+                "platform": "upnp",
+                "unique_id": "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_bytes_sent"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": "5b993b9529fe4dfebe2771b4c67e67e5",
+                "disabled_by": null,
+                "entity_id": "sensor.internetgatewaydevicev2_grumpyorange_bytes_received",
+                "name": null,
+                "platform": "upnp",
+                "unique_id": "uuid:75802409-bccb-40e7-9f6c-F0B01409A0BD_bytes_received"
+            },
+            {
+                "config_entry_id": "934399e20237497fb5bde518689e954e",
+                "device_id": "47194b0b5790466499ada2a6403e2fc5",
+                "disabled_by": null,
+                "entity_id": "sensor.iphone_battery_level",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "level_Shreyans\u2019 iPhone 8 Plus"
+            },
+            {
+                "config_entry_id": "934399e20237497fb5bde518689e954e",
+                "device_id": "47194b0b5790466499ada2a6403e2fc5",
+                "disabled_by": null,
+                "entity_id": "sensor.iphone_battery_state",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "state_Shreyans\u2019 iPhone 8 Plus"
+            },
+            {
+                "config_entry_id": "934399e20237497fb5bde518689e954e",
+                "device_id": "47194b0b5790466499ada2a6403e2fc5",
+                "disabled_by": null,
+                "entity_id": "sensor.iphone_battery_state_2",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "state_iphone"
+            },
+            {
+                "config_entry_id": "934399e20237497fb5bde518689e954e",
+                "device_id": "47194b0b5790466499ada2a6403e2fc5",
+                "disabled_by": null,
+                "entity_id": "sensor.iphone_battery_level_2",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "level_Shreyans\u2019 iPhone XS"
+            },
+            {
+                "config_entry_id": "934399e20237497fb5bde518689e954e",
+                "device_id": "47194b0b5790466499ada2a6403e2fc5",
+                "disabled_by": null,
+                "entity_id": "sensor.iphone_battery_state_3",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "state_Shreyans\u2019 iPhone XS"
+            },
+            {
+                "config_entry_id": "934399e20237497fb5bde518689e954e",
+                "device_id": "47194b0b5790466499ada2a6403e2fc5",
+                "disabled_by": null,
+                "entity_id": "sensor.iphone_battery_level_3",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "level_iphone"
+            },
+            {
+                "config_entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.trial",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "37c78f12-3812-40e0-8e03-aecccfe1ca8e"
+            },
+            {
+                "config_entry_id": "934399e20237497fb5bde518689e954e",
+                "device_id": "b9b2c37229f743448cea930f47d5fc88",
+                "disabled_by": null,
+                "entity_id": "sensor.srishtis_iphone_battery_state",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "state_Srishti\u2019s iPhone XS"
+            },
+            {
+                "config_entry_id": "934399e20237497fb5bde518689e954e",
+                "device_id": "b9b2c37229f743448cea930f47d5fc88",
+                "disabled_by": null,
+                "entity_id": "sensor.srishtis_iphone_battery_level",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "level_Srishti\u2019s iPhone XS"
+            },
+            {
+                "config_entry_id": "934399e20237497fb5bde518689e954e",
+                "device_id": "47194b0b5790466499ada2a6403e2fc5",
+                "disabled_by": null,
+                "entity_id": "sensor.shreyans_iphone_battery_level",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "level_shreyans_iphone"
+            },
+            {
+                "config_entry_id": "934399e20237497fb5bde518689e954e",
+                "device_id": "47194b0b5790466499ada2a6403e2fc5",
+                "disabled_by": null,
+                "entity_id": "sensor.shreyans_iphone_battery_state",
+                "name": null,
+                "platform": "ios",
+                "unique_id": "state_shreyans_iphone"
+            },
+            {
+                "config_entry_id": "ceab433ad7574949a8011fc7b057b29c",
+                "device_id": "26119447d62d4f65bf705ae53ede6f2a",
+                "disabled_by": null,
+                "entity_id": "light.study_lamp",
+                "name": "Study Lamp",
+                "platform": "hue",
+                "unique_id": "7c:b0:3e:aa:0a:01:cb:a4-03"
+            },
+            {
+                "config_entry_id": "ceab433ad7574949a8011fc7b057b29c",
+                "device_id": "980afbdea2a2469f998c63271b006b45",
+                "disabled_by": null,
+                "entity_id": "light.cooler",
+                "name": "Cooler",
+                "platform": "hue",
+                "unique_id": "7c:b0:3e:aa:0a:01:93:34-03"
+            },
+            {
+                "config_entry_id": "ceab433ad7574949a8011fc7b057b29c",
+                "device_id": "eecd5b8a4cf248c58136caea29f1a4ef",
+                "disabled_by": null,
+                "entity_id": "light.living_room_ceiling_1a",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:04:66:a6:7e-0b"
+            },
+            {
+                "config_entry_id": "ceab433ad7574949a8011fc7b057b29c",
+                "device_id": "65de0bdff5594324a801072e6135ec3e",
+                "disabled_by": null,
+                "entity_id": "light.living_room_ceiling_1b",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:04:66:8c:52-0b"
+            },
+            {
+                "config_entry_id": "ceab433ad7574949a8011fc7b057b29c",
+                "device_id": "289db361d5624adabe49fc7c257ce604",
+                "disabled_by": null,
+                "entity_id": "light.living_room_ceiling_1c",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:17:88:01:04:02:9f:d6-0b"
+            },
+            {
+                "config_entry_id": "ceab433ad7574949a8011fc7b057b29c",
+                "device_id": "dd0f4a303a2b4100b0ac3e9756c5f8cd",
+                "disabled_by": null,
+                "entity_id": "light.dimmable_light_1",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:0b:57:ff:fe:38:b9:79-01"
+            },
+            {
+                "config_entry_id": "ceab433ad7574949a8011fc7b057b29c",
+                "device_id": "be1ea1aa18064d2fb6a6939770f8215a",
+                "disabled_by": null,
+                "entity_id": "light.dimmable_light_1_2",
+                "name": null,
+                "platform": "hue",
+                "unique_id": "00:0b:57:ff:fe:33:db:57-01"
+            },
+            {
+                "config_entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "device_id": "0f6cd7cee00f499296c39067d983851d",
+                "disabled_by": null,
+                "entity_id": "media_player.google_home",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "b10a0380-6f3e-e453-424e-b7c8e2255135"
+            },
+            {
+                "config_entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "device_id": "255fc91af13249b6ad2e4b3c4ecb0172",
+                "disabled_by": null,
+                "entity_id": "media_player.googlehome0983",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "5c35981e-7714-f039-b187-836c4421c576"
+            },
+            {
+                "config_entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.alles",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "372c9338-40f8-4e6c-922e-f7e55af741b0"
+            },
+            {
+                "config_entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "device_id": "e24de9584bc548a0b7e0ad5d96f74aac",
+                "disabled_by": null,
+                "entity_id": "media_player.bedroom_google_home",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "3b2a939f-211b-298f-990a-abbca7e3089b"
+            },
+            {
+                "config_entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "device_id": "3f32f6a2f13243a68d1594538bb6f8a1",
+                "disabled_by": null,
+                "entity_id": "media_player.googlehome1487",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "201446bf-264f-d600-7089-0d9bde7389ef"
+            },
+            {
+                "config_entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "device_id": "73791596da924e1e98b6292445a30740",
+                "disabled_by": null,
+                "entity_id": "media_player.googlehome2276",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "1d01d16b-dd32-8721-055f-8c7de70341b3"
+            },
+            {
+                "config_entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "device_id": "1ee6709c466e4fc69e62f02043886eda",
+                "disabled_by": null,
+                "entity_id": "media_player.googlehome8803",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "16a00e36-40ef-18b1-b21a-4650f24c838e"
+            },
+            {
+                "config_entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.all_speakers",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "c8ef14a6-b4ff-4868-aea6-fbb8a8d58ebc"
+            },
+            {
+                "config_entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.all_speakers_2",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "4632f342-1b79-4494-b1ae-17f406fa93d4"
+            },
+            {
+                "config_entry_id": "aa6878e4b39d417c86dd0156067029a1",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.all_speakers_3",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "3fb420d3-b4be-4938-95dd-72e329accb5a"
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}
