@@ -1,6 +1,0 @@
-- platform: yeelight
-  devices:
-    192.168.178.23:
-      name: Studio Left
-    192.168.178.31:
-      name: Studio Right

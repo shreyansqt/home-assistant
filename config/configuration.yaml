@@ -36,9 +36,9 @@ updater:
   # include_used_components: true
 
 # Discover some devices automatically
-# discovery:
-#   ignore:
-#     - yeelight
+discovery:
+  ignore:
+    - yeelight
 
 # Allows you to issue voice commands from the frontend in enabled browsers
 conversation:
@@ -116,3 +116,10 @@ script: !include scripts.yaml
 #   discovery: false
 #   switch:
 #     - host: 192.168.178.48
+
+yeelight:
+  devices:
+    192.168.178.23:
+      name: Studio Left
+    192.168.178.31:
+      name: Studio Right
