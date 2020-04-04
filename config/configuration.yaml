@@ -105,11 +105,38 @@ homekit:
 
 ios:
 
+group:
+  living_room_ceiling:
+    name: Living Room Ceiling
+    entities:
+      - light.living_room_ceiling_1a
+      - light.living_room_ceiling_1b
+      - light.living_room_ceiling_1c
+
+  living_room:
+    name: Living Room
+    entities:
+      - group.living_room_ceiling
+      - switch.projector
+
+  # bedroom:
+  #   name: Bedroom
+  #   entities:
+  # - light.bedroom_lamp
+  # - light.bedroom_ceiling_left
+  # - light.bedroom_ceiling_right
+
+  studio:
+    name: Studio
+    entities:
+      - light.studio_left
+      - light.studio_right
+
 # includes
 light: !include lights.yaml
 switch: !include switches.yaml
 scene: !include scenes.yaml
-group: !include groups.yaml
+
 automation: !include automations.yaml
 script: !include scripts.yaml
 # tplink:
